@@ -3,7 +3,7 @@
 <img src="" alt="mockup-weather">
 <br><br>
 <p>Aplicação para obter informações em tempo real sobre a temperatura, condição das nuvens e umidade em qualquer cidade do mundo, desenvolvida durante o evento "Programador em 72h" ministrado pelo professor Rodolfo Mori do Dev Club.</p>
-<p>Para utilzar a aplicação, basta digitar o nome da cidade desejada (tomando cuidado para não deixar espaços após o nome) e clicar na lupa.</p>
+<p>Para utilizar a aplicação, basta digitar o nome da cidade desejada (tomando cuidado para não deixar espaços após o nome) e clicar na lupa.</p>
 <br>
 <h2>Tecnologias utilizadas:</h2>
 
